@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'stringinterpollation';
+
+ name= 'vasim';
+ add = 'a/p-kundal, tel-palus,dist-sangli';
+ num =7507070771;
 }
